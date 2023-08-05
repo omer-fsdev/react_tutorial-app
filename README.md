@@ -1,6 +1,6 @@
 ## React, UseState, UseEffect, Axios, react-icons, bootstrap, Moment.js
 
-## [Click here to see the website](https://tutorial-app-react.netlify.app)
+## (https://tutorial-app-react.netlify.app)
 
 # Getting Started with Create React App
 
